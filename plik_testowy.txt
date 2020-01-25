@@ -1,0 +1,4 @@
+plik_testowy
+lista
+numery
+spis
